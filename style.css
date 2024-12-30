@@ -1,0 +1,23 @@
+/* .btn-1{
+    background-color: gray;
+    text-decoration: none;
+    color: white;
+    padding:0px 10px;
+} */
+ body{
+    background-image: url(image-1.jpg);
+ }
+ .maincontainer{
+    background-color: gray;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    margin-top: 250px;
+    margin-left: 550px;
+    height: 250px;
+    width: 500px;
+ }
+ .container1{
+    border-radius: 50%;
+ }
